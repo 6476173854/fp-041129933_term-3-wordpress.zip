@@ -1,0 +1,30 @@
+/*
+Theme Name: A2 Your Username
+Theme URI: http://example.com
+Author: Ankush
+Author URI: http://example.com
+Description: Basic WordPress Theme based on HTML mockup
+Version: 1.0
+License: GPL2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: a2-your-username
+template: twentyeleven
+*/
+.home-hero-banner {
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.home-section h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.header-main {
+    background-color: #333;
+    color: white;
+}
+
+.header-main a {
+    color: white;
+}
